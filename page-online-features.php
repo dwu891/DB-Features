@@ -9,26 +9,26 @@ Template Name: Online Features
 
 <style>
 input[type=checkbox].css-checkbox {
-	position: absolute; 
-	overflow: hidden; 
-	clip: rect(0 0 0 0); 
-	height:1px; 
-	width:1px; 
-	margin:-1px; 
-	padding:0;
-	border:0;
+  position: absolute; 
+  overflow: hidden; 
+  clip: rect(0 0 0 0); 
+  height:1px; 
+  width:1px; 
+  margin:-1px; 
+  padding:0;
+  border:0;
 }
 
 input[type=checkbox].css-checkbox + label.css-label {
-	padding-left:20px;
-	height:15px; 
-	display:inline-block;
-	line-height:15px;
-	background-repeat:no-repeat;
-	background-position: 0 0;
-	font-size:15px;
-	vertical-align:middle;
-	cursor:pointer;
+  padding-left:20px;
+  height:15px; 
+  display:inline-block;
+  line-height:15px;
+  background-repeat:no-repeat;
+  background-position: 0 0;
+  font-size:15px;
+  vertical-align:middle;
+  cursor:pointer;
 }
 
 input[type=checkbox].css-checkbox:checked + label.css-label {

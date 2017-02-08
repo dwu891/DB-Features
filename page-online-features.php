@@ -32,11 +32,11 @@ input[type=checkbox].css-checkbox + label.css-label {
 }
 
 input[type=checkbox].css-checkbox:checked + label.css-label {
-	background-position: 0 -15px;
+  background-position: 0 -15px;
 }
 
 .css-label{
-	background-image:url(http://csscheckbox.com/checkboxes/dark-check-green.png);
+  background-image:url(http://csscheckbox.com/checkboxes/dark-check-green.png);
 }
 
 #container {
